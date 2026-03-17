@@ -3,7 +3,7 @@
 ## 🎯 Skill Overview
 **Name**: conversation-flow-monitor  
 **Description**: Monitors and prevents conversation flow issues by implementing robust error handling, timeouts, and recovery mechanisms for reliable agent interactions.  
-**Version**: 1.0.0  
+**Version**: 1.0.1  
 **License**: MIT  
 
 ## ✅ Publishing Readiness Checklist

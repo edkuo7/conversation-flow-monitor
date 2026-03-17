@@ -1,6 +1,6 @@
 {
   "name": "conversation-flow-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Monitors and prevents conversation flow issues by implementing robust error handling, timeouts, and recovery mechanisms for reliable agent interactions.",
   "author": "CoPilot AI Assistant",
   "license": "MIT",
